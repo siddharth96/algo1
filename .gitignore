@@ -1,0 +1,13 @@
+*
+!.gitignore
+!*/
+!week1/Percolation.java
+!week1/PercolationStats.java
+!week2/Deque.java
+!week2/Permutation.java
+!week2/RandomizedQueue.java
+!week3/BruteCollinearPoints.java
+!week3/FastCollinearPoints.java
+!week3/Point.java
+!week4/Board.java
+!week4/Solver.java
